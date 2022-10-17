@@ -1,0 +1,9 @@
+.taDa{
+    font-family: cursive;
+    font-size: 100px;
+    color: rgb(9, 255, 0);
+    text-shadow: 2px 0 rgb(85, 0, 255), -2px 0 rgb(85, 0, 255), 0 2px rgb(85, 0, 255), 0 -2px rgb(85, 0, 255),
+        1px 1px rgb(85, 0, 255), -1px -1px rgb(85, 0, 255), 1px -1px rgb(85, 0, 255), -1px 1px rgb(85, 0, 255);
+    text-align: center;
+    margin-top: 20%;
+}

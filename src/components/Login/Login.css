@@ -1,0 +1,31 @@
+.form-control-plaintext{
+    font-family: cursive;
+    font-size: 22px;
+    font-weight: 500;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.7);
+}
+.inputs{
+    margin:15% 35% 0 35%;
+    padding: 40px 30px 10px 30px;
+    border-radius: 20px;
+    box-shadow: black 5px 5px 10px;
+    background-color: rgba(25, 0, 255, 0.305);
+}
+.btn.btn-success{
+    border-radius: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+body{
+    background-color: rgba(179, 176, 176, 0.233);
+}
+.logInp{
+    display: flex;
+    align-items: center;
+    margin: 15px 0px;
+}
+.pleaseLog{
+    text-align: center;
+    font-family: cursive;
+}
