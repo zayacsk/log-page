@@ -1,3 +1,3 @@
 to start 
-node server.js
-npm start
+1. node server.js
+2. npm start
