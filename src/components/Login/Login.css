@@ -23,7 +23,7 @@ body{
 .logInp{
     display: flex;
     align-items: center;
-    margin: 15px 0px;
+    margin: 15px 0;
 }
 .pleaseLog{
     text-align: center;
