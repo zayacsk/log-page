@@ -13,7 +13,7 @@ function App() {
 
   return (
     <div>
-      <h1 className='taDa'>Выйди и зайди нормально!</h1>
+      <h1 className='taDa'>You are welcome!</h1>
     </div>
   );
 }
